@@ -2,6 +2,7 @@ package SingleGame;
 
 
 public class Data {
+
        public static int AllPoint_Player1[][];
        public static int AllPoint_Player2[][];
        public static int Score_Player1=0;
